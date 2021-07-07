@@ -1,4 +1,8 @@
-# About
+# Heimdall Cloud Checker
+
+<img align="right" height="300" width="370" src="https://user-images.githubusercontent.com/6532445/124816083-7642fc80-df3e-11eb-8b43-e59216187730.png" alt="Visius Heimdall Logo">
+
+## About
 [Visius](https://visius.io)  is a Brazilian cybersecurity startup that follows the signs of the [crimson thunder ;)](https://www.youtube.com/watch?v=SMkMp0oAL7E) :guitar:!
 
 As we value open source initiatives a lot we've decided to open Heimdall for everyone to see and help us to secure our digital life.
@@ -7,13 +11,13 @@ As we value open source initiatives a lot we've decided to open Heimdall for eve
 
 Heimdall is a tool to check for risks on your AWS.
 
-# Running
+## Running
 
 Prerequisites:
 
 - Python3
 
-## On Linux
+### On Linux
 
 Download this project, extract it to a folder and navigate to it.
 
@@ -23,7 +27,7 @@ Install boto3 module: `pip install boto3`
 
 Run: `python main.py`
 
-## Options
+### Options
 
 - none : check everything
 - -h | --help : Show help
@@ -32,6 +36,6 @@ Run: `python main.py`
 - -e | --exposed : Checks for exposed items
 - -l | --logs : Checks for active Logs
 
-# Sponsor
+## Sponsor
 
 The very first Viking Startup, Visius <img src='https://user-images.githubusercontent.com/6532445/124814004-de441380-df3b-11eb-918b-5541936155be.png'  width="35" height="20">
