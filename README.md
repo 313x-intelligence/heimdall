@@ -10,14 +10,11 @@ Prerequisites:
 
 Download this project, extract it to a folder and navigate to it.
 
-(Optional) Create and run a python virtual environment:
-´python -m venv .venv && source .venv/bin/activate´
+(Optional) Create and run a python virtual environment: `python -m venv .venv && source .venv/bin/activate`
 
-Install boto3 module:
-´pip install boto3´
+Install boto3 module: `pip install boto3`
 
-Run:
-´python main.py´
+Run: `python main.py`
 
 ## Options
 
