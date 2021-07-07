@@ -1,4 +1,4 @@
-# Heimdall Cloud Checker
+# Heimdall Cloud Checker :brazil:
 
 <img align="right" height="300" width="370" src="https://user-images.githubusercontent.com/6532445/124816083-7642fc80-df3e-11eb-8b43-e59216187730.png" alt="Visius Heimdall Logo">
 
