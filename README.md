@@ -27,6 +27,16 @@ Install boto3 module: `pip install boto3`
 
 Run: `python main.py`
 
+### Screenshots
+![1](https://user-images.githubusercontent.com/67867099/125287076-e2cd4b00-e2f2-11eb-890f-889c0f294b59.jpeg)
+
+![2](https://user-images.githubusercontent.com/67867099/125287099-e82a9580-e2f2-11eb-9234-5435941f2ed9.jpeg)
+
+![3](https://user-images.githubusercontent.com/67867099/125287120-ec56b300-e2f2-11eb-8d46-3b9d13692abf.jpeg)
+
+![4](https://user-images.githubusercontent.com/67867099/125287129-ef51a380-e2f2-11eb-8c3c-206246e34e3d.jpeg)
+
+
 ### Options
 
 - none : check everything
