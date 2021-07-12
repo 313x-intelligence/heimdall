@@ -36,6 +36,7 @@ Run: `python main.py`
 - -e | --exposed : Checks for exposed items
 - -l | --logs : Checks for active Logs
 
+### Screenshots
 
 ### To do
 - Add support to Azure
