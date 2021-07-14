@@ -21,11 +21,15 @@ Prerequisites:
 
 Download this project, extract it to a folder and navigate to it.
 
-(Optional) Create and run a python virtual environment: `python -m venv .venv && source .venv/bin/activate`
+> (Optional) Create and run a python virtual environment: `python -m venv .venv && source .venv/bin/activate`
 
-Install boto3 module: `pip install boto3`
-
-Run: `python main.py`
+```python
+git clone git@github.com:visius-io/Visius-Heimdall.git
+pip install boto3
+cd Visius-Heimdall
+# run the script o/
+python heimdall.py
+```
 
 ### Screenshots
 ![1](https://user-images.githubusercontent.com/67867099/125287076-e2cd4b00-e2f2-11eb-890f-889c0f294b59.jpeg)
