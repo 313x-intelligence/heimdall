@@ -25,8 +25,8 @@ Download this project, extract it to a folder and navigate to it.
 
 ```python
 git clone https://github.com/visius-io/visius.heimdall.git
-pip install boto3
 cd visius.heimdall
+pip install boto3
 # run the script o/
 python heimdall.py
 ```
