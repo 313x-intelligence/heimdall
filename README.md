@@ -24,9 +24,9 @@ Download this project, extract it to a folder and navigate to it.
 > (Optional) Create and run a python virtual environment: `python -m venv .venv && source .venv/bin/activate`
 
 ```python
-git clone git@github.com:visius-io/Visius-Heimdall.git
+git clone git@github.com:visius-io/visius.heimdall.git
 pip install boto3
-cd Visius-Heimdall
+cd visius.heimdall
 # run the script o/
 python heimdall.py
 ```
