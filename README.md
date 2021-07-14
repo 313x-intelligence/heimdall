@@ -3,7 +3,7 @@
 <img align="right" height="300" width="370" src="https://user-images.githubusercontent.com/6532445/124816083-7642fc80-df3e-11eb-8b43-e59216187730.png" alt="Visius Heimdall Logo">
 
 ## About
-[Visius](https://visius.io)  is a Brazilian cybersecurity startup that follows the signs of the [crimson thunder ;)](https://www.youtube.com/watch?v=SMkMp0oAL7E) :guitar:!
+Visius is a Brazilian cybersecurity startup that follows the signs of the [crimson thunder ;)](https://www.youtube.com/watch?v=SMkMp0oAL7E) :guitar:!
 
 As we value open source initiatives a lot we've decided to open Heimdall for everyone to see and help us to secure our digital life.
 > "Be warned, I will honor my sworn oath to protect this realm as its gatekeeper. If your return threatens the safety of Asgard, Bifrost will remain closed and you will be left to die on the cold waste of Jotunheim."
@@ -59,4 +59,4 @@ python heimdall.py
 
 ## Sponsor
 
-The very first Viking Startup, Visius <img src='https://user-images.githubusercontent.com/6532445/124814004-de441380-df3b-11eb-918b-5541936155be.png'  width="35" height="20">
+The very first Viking Startup <img src='https://user-images.githubusercontent.com/6532445/124814004-de441380-df3b-11eb-918b-5541936155be.png'  width="35" height="20">
