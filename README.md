@@ -9,7 +9,7 @@ As we value open source initiatives a lot we've decided to open Heimdall for eve
 > "Be warned, I will honor my sworn oath to protect this realm as its gatekeeper. If your return threatens the safety of Asgard, Bifrost will remain closed and you will be left to die on the cold waste of Jotunheim."
 
 
-Heimdall is a tool to check for risks on your AWS.
+Heimdall is a tool to check risks on your AWS.
 
 ## Running
 
