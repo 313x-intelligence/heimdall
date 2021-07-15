@@ -17,6 +17,7 @@ Prerequisites:
 
 - Python3
 - Poetry
+- Make
 
 ### On Linux
 
@@ -24,13 +25,11 @@ Download this project, extract it to a folder and navigate to it.
 
 ```python
 git clone https://github.com/visius-io/visius.heimdall.git
-poetry install
-poetry shell
-poetry run heimdall
+make setup/dev
+make start
 
 # Format files before commit
-poetry run black .
-poetry run isort .
+make format/run
 ```
 
 ### Screenshots
