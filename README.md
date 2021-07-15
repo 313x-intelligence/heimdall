@@ -27,6 +27,10 @@ git clone https://github.com/visius-io/visius.heimdall.git
 poetry install
 poetry shell
 poetry run heimdall
+
+# Format files before commit
+poetry run black .
+poetry run isort .
 ```
 
 ### Screenshots

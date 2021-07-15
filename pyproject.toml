@@ -10,6 +10,9 @@ python = "^3.8"
 boto3 = "^1.17.112"
 
 [tool.poetry.dev-dependencies]
+pylint = "^2.9.3"
+black = "^21.6b0"
+isort = "^5.9.2"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
