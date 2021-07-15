@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "heimdall"
+version = "0.01"
+description = "Visius Heimdall is a tool that checks for risks on your cloud infrastructure"
+authors = []
+license = "GPL2"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+boto3 = "^1.17.112"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+heimdall = "heimdall:main"

@@ -16,19 +16,17 @@ Heimdall is a tool to check risks on your AWS.
 Prerequisites:
 
 - Python3
+- Poetry
 
 ### On Linux
 
 Download this project, extract it to a folder and navigate to it.
 
-> (Optional) Create and run a python virtual environment: `python3 -m venv .venv && source .venv/bin/activate`
-
 ```python
 git clone https://github.com/visius-io/visius.heimdall.git
-cd visius.heimdall
-pip3 install boto3
-# run the script o/
-python3 heimdall.py
+poetry install
+poetry shell
+poetry run heimdall
 ```
 
 ### Screenshots
