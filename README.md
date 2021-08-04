@@ -18,6 +18,7 @@ Prerequisites:
 - Python3
 - Poetry
 - Make
+- Boto3
 
 ### On Linux
 
