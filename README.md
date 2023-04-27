@@ -41,7 +41,7 @@ make format/run
 
 
 ### Options
-
+```
 - none : check everything
 - -h | --help : Show help
 - -c | --crypto : Checks if Encryption is enabled
