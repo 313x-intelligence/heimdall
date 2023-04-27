@@ -2,9 +2,6 @@
 
 <img align="right" height="300" width="370" src="https://user-images.githubusercontent.com/6532445/124816083-7642fc80-df3e-11eb-8b43-e59216187730.png" alt="Visius Heimdall Logo">
 
-## About
-Visius is a Brazilian cybersecurity startup that follows the signs of the [crimson thunder ;)](https://www.youtube.com/watch?v=SMkMp0oAL7E) :guitar:!
-
 As we value open source initiatives a lot, we've decided to open Heimdall for everyone to see and help us to secure our digital life.
 > "Be warned, I will honor my sworn oath to protect this realm as its gatekeeper. If your return threatens the safety of Asgard, Bifrost will remain closed and you will be left to die on the cold waste of Jotunheim."
 
