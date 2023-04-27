@@ -22,7 +22,7 @@ Prerequisites:
 Download this project, extract it to a folder and navigate to it.
 
 ```python
-git clone https://github.com/visius-io/visius.heimdall.git
+git clone git@github.com:313x-intelligence/heimdall.git
 make setup/dev
 make start
 
