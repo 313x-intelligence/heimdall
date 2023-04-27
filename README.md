@@ -49,13 +49,3 @@ make format/run
 - -e | --exposed : Checks for exposed items
 - -l | --logs : Checks for active Logs
 
-### Screenshots
-
-### To do
-- Add support to Azure
-- Add support to GCP
-- Any other cool stuff
-
-## Sponsor
-
-The very first Viking Startup <img src='https://user-images.githubusercontent.com/6532445/124814004-de441380-df3b-11eb-918b-5541936155be.png'  width="35" height="20">
